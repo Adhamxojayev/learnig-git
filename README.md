@@ -1,4 +1,4 @@
-# learnig-git
+# Git and Github - course
 
+## never stop learning
 
-this learning git 
